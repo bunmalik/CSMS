@@ -1,0 +1,29 @@
+	   COMPUTER SHOP
+    P. O. Box DS 436, Dansoman-Accra
+      Tel: 0555516190/0269381058
+           IBN #:P006762956
+
+To:    RC963387
+Rec #: RC-71-190217	Date:2019-07-04
+Time:20:39:07    Type: CASH
+--------------------------------------------------
+ITEM		QTY	PRICE	TOTAL
+--------------------------------------------------
+Toyota Corolla		1	3500	3500
+Paper		1	2	2
+WE		1	34	34
+--------------------------------------------------
+		SUBTOTAL: 	3536
+		DISCOUNT: 	0.00
+		NET TOTAL:	3536
+		PAYMENT:	5000
+		CHANGE: 	1464
+--------------------------------------------------
+Cashier:		Machine: Second Printer
+
+	3% VAT FLAT RATE ARE ALL INCLUSIVE
+	      HAVE A NICE DAY!!!
+
+	Software by: Anas Musah
+	   Tel: +233555516190
+	 Email: bunmalik11@gmail.com
